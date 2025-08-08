@@ -1,6 +1,4 @@
-# panaderia.py
 
-# Inventario inicial de productos
 inventario = {
     "pan": {"precio": 1200, "stock": 40},
     "leche": {"precio": 4200, "stock": 25},
